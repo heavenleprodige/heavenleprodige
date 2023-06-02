@@ -1,9 +1,10 @@
 
 <p align = "center">
-### <p align="center">🏆</p>
+<p align="center">🏆</p>
 <br>
 <p align="center">
   🕵️ OSINT 
+  <br>
   👨‍💻 Computer Engineer 
   <br>
 </p>
@@ -11,7 +12,7 @@
 -----
 ### <p align="center">📞</p>
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/170648973332185089.png">
+  <img src="[https://discord.c99.nl/widget/theme-2/170648973332185089.png](https://discord.c99.nl/widget/theme-3/170648973332185089.png)">
   <br>
 </p>
 

@@ -8,7 +8,7 @@
 </p>
 
 -----
-<img src="[https://tenor.com/view/ninjala-jane-hacker-hacking-computer-gif-20337624](https://tenor.com/view/discord-discord-banner-aesthetic-dark-dark-aesthatic-gif-23185739)" />
+<img src="monimage.gif" />
 
 -----
 

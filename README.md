@@ -1,6 +1,6 @@
-### <p align="center">🏆</p>
+### <p align="left">🏆</p>
 <br>
-<p align="center">
+<p align="left">
   🕵️ OSINT 
   <br>
   👨‍💻 Computer Engineer 
@@ -14,9 +14,9 @@
 
 -----
 
-### <p align="center">🚩</p>
+### <p align="left">🚩</p>
 <br>
-<p align="center">
+<p align="left">
   <a href="https://www.root-me.org/heaven1337">💀 Root Me</a>
 
 

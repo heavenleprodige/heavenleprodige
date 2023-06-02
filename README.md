@@ -9,7 +9,7 @@
 
 -----
 <div>
-<img width="100" src="monimage.gif">
+<CENTER><img src="monimage.gif"><CENTER>
 <div>
 
 -----

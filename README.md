@@ -8,7 +8,9 @@
 </p>
 
 -----
+<p align = center">
 <img src="monimage.gif" />
+</p>
 
 -----
 

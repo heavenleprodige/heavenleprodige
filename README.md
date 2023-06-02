@@ -8,6 +8,7 @@
 </p>
 
 -----
+<img src="https://tenor.com/view/discord-hacking-hack-background-wumpus-gif-26439512">
 -----
 
 ### <p align="center">🚩</p>

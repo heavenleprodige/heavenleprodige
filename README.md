@@ -6,8 +6,6 @@
 ### <p align="center">🏆</p>
 <br>
 <p align="center">
-  🕵️ OSINT 
-  <br>
   👨‍💻 Computer Engineer 
   <br>
 </p>

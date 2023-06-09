@@ -3,11 +3,7 @@
 </p>
 
 -----
-### <p align="center">🏆</p>
-<br>
-<p align="center">
-  👨‍💻 Computer Engineer 
-  <br>
-</p>
+### <p align="center">👨‍💻 Computer Engineer </p>
+
 
 
